@@ -1,2 +1,2 @@
 # hello-world
-Sy Hello to GitHub world
+Just say "Hello" to GitHub's world.
